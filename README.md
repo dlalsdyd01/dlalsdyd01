@@ -10,4 +10,4 @@
 ## 2025.03.13
 포토샵의 브러쉬로 그리기를 연습했습니다.
 
-![이민용](https://github.com/user-attachments/assets/31d560db-b867-4bfd-a42d-f7a402c1d3f5
+https://github.com/user-attachments/assets/31d560db-b867-4bfd-a42d-f7a402c1d3f5
