@@ -8,8 +8,8 @@
 
 # 수업내용
 
-포토샵
+포토샵  
 https://github.com/dlalsdyd01/Photoshop  
 
-생성형 AI
+생성형 AI  
 https://github.com/dlalsdyd01/Generative-AI  
