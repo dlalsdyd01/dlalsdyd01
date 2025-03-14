@@ -18,3 +18,9 @@ invideo로 AI영상 만들기
 ![2025 로봇 AI_사진_20250312_1](https://github.com/user-attachments/assets/eb8bc22f-6a55-451b-8846-f5d9f181b083)  
 정상적으로 1분짜리 쇼츠용 영상이 만들어진 모습  
 ![2025 로봇 AI_사진_20250312_3](https://github.com/user-attachments/assets/f6b4b3ec-b287-4cad-8931-208ae061d647)  
+
+SUNO.ai를 이용하여 음악 만들기  
+만들고싶은 음악에 대한 설명을 한다.  
+![2025 로봇 AI_사진_20250312_4](https://github.com/user-attachments/assets/af1ebf05-0452-467c-9a5a-1ad0d822c550)  
+![2025 로봇 AI_사진_20250312_5](https://github.com/user-attachments/assets/86ae96e9-b56e-4d70-a148-c4969e631b25)  
+
