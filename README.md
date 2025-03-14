@@ -7,7 +7,7 @@
 
 
 # 수업내용
-## 2025.03.13
+2025.03.13
 
 포토샵의 브러쉬로 그리기를 연습했습니다.  
 [브러쉬로 캐릭터 만들기](https://github.com/user-attachments/assets/9660ce98-8b00-4a0c-a9f4-7aba8f0a5043)
