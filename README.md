@@ -9,10 +9,10 @@
 # 수업내용
 2025.03.13
 
-포토샵의 브러쉬로 그리기를 연습했습니다.  
+## 포토샵 브러쉬 연습하기
 [브러쉬로 캐릭터 만들기](https://github.com/user-attachments/assets/9660ce98-8b00-4a0c-a9f4-7aba8f0a5043)
 
-생성형 AI 만들기  
+## 생성형 AI 만들기  
 invideo로 AI영상 만들기  
 만들고싶은 영상에대한 설명을 입력한다  
 ![2025 로봇 AI_사진_20250312_1](https://github.com/user-attachments/assets/eb8bc22f-6a55-451b-8846-f5d9f181b083)  
