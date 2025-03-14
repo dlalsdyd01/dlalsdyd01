@@ -14,4 +14,6 @@
 
 생성형 AI 만들기
 invideo로 AI영상 만들기
-![2025 로봇 AI_사진_20250312_1](https://github.com/user-attachments/assets/eb8bc22f-6a55-451b-8846-f5d9f181b083)
+![2025 로봇 AI_사진_20250312_1](https://github.com/user-attachments/assets/eb8bc22f-6a55-451b-8846-f5d9f181b083)  
+
+![2025 로봇 AI_사진_20250312_3](https://github.com/user-attachments/assets/f6b4b3ec-b287-4cad-8931-208ae061d647)
