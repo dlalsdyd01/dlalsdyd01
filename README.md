@@ -17,6 +17,9 @@ https://github.com/dlalsdyd01/Generative-AI
 파이썬 실습  
 https://github.com/dlalsdyd01/Python
 
+Teachable-Machine
+https://github.com/dlalsdyd01/Teachable-Machine
+
   
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
