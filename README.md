@@ -17,7 +17,7 @@ https://github.com/dlalsdyd01/Generative-AI
 파이썬 실습  
 https://github.com/dlalsdyd01/Python
 
-Teachable-Machine
+Teachable-Machine  
 https://github.com/dlalsdyd01/Teachable-Machine
 
   
