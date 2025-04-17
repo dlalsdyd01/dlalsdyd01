@@ -15,8 +15,11 @@ https://github.com/dlalsdyd01/Photoshop
 https://github.com/dlalsdyd01/Generative-AI  
 
 파이썬 실습  
-https://github.com/dlalsdyd01/Python
-
+https://github.com/dlalsdyd01/Python  
+  
+Copilot 활용  
+https://github.com/dlalsdyd01/Copilot  
+  
 Teachable-Machine  
 https://github.com/dlalsdyd01/Teachable-Machine  
 
