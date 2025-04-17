@@ -18,7 +18,10 @@ https://github.com/dlalsdyd01/Generative-AI
 https://github.com/dlalsdyd01/Python
 
 Teachable-Machine  
-https://github.com/dlalsdyd01/Teachable-Machine
+https://github.com/dlalsdyd01/Teachable-Machine  
+
+yolov5 실습
+https://github.com/dlalsdyd01/webapp_yolo
 
   
 
