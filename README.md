@@ -27,7 +27,7 @@ yolov5 실습
 https://github.com/dlalsdyd01/webapp_yolo  
 https://github.com/dlalsdyd01/yolov5  
 
-QT-Designer
+QT-Designer  
 https://github.com/dlalsdyd01/QT-Designer  
 
 
