@@ -30,6 +30,8 @@ https://github.com/dlalsdyd01/yolov5
 QT-Designer  
 https://github.com/dlalsdyd01/QT-Designer  
 
+ptQT를 이용한 APP
+
 
   
 
