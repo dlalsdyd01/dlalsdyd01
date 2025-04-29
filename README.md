@@ -29,7 +29,6 @@ https://github.com/dlalsdyd01/yolov5
 
 QT-Designer  
 https://github.com/dlalsdyd01/QT-Designer  
-
 pyQT를 이용한 APP  
 https://github.com/dlalsdyd01/pyQT
 
