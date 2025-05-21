@@ -34,6 +34,7 @@ https://github.com/dlalsdyd01/RobotControl
 
 QT-Designer  
 https://github.com/dlalsdyd01/QT-Designer  
+  
 pyQT를 이용한 APP  
 https://github.com/dlalsdyd01/pyQT  
 
