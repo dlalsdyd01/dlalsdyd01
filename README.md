@@ -6,7 +6,6 @@
 
 
 # 수업내용
----
 
 ## 🎨 Photoshop
 - [Photoshop](https://github.com/dlalsdyd01/Photoshop)  
