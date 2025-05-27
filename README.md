@@ -14,6 +14,7 @@ https://github.com/dlalsdyd01/Photoshop
 HTML/CSS  
 https://github.com/dlalsdyd01/HTML-CSS  
 https://github.com/dlalsdyd01/Webpage  
+https://github.com/dlalsdyd01/Profile  
 
 생성형 AI  
 https://github.com/dlalsdyd01/Generative-AI  
