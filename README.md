@@ -12,8 +12,8 @@
   포토샵을 활용한 이미지 편집 및 디자인 실습
 
 ## 🌐 HTML / CSS
-- [HTML-CSS](https://github.com/dlalsdyd01/HTML-CSS)  
-  HTML과 CSS 기초 학습 및 실습
+- [profilecard](https://github.com/dlalsdyd01/HTML-CSS)  
+  프로필카드 만들기
 - [Webpage](https://github.com/dlalsdyd01/Webpage)  
   정적 웹사이트 제작 실습
 - [Profile](https://github.com/dlalsdyd01/Profile)  
