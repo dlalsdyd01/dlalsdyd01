@@ -7,9 +7,6 @@
 
 # 수업내용
 
-## 🎨 Photoshop
-- [Photoshop](https://github.com/dlalsdyd01/Photoshop)  
-  포토샵을 활용한 이미지 편집 및 디자인 실습
 
 ## 🌐 HTML / CSS
 - [profilecard](https://github.com/dlalsdyd01/HTML-CSS)  
