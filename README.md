@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm MIN YONG</h1>
-<h3 align="center">나사렛대학교 IT융합학부 재학중</h3>  
-
-
-  
-
-
-
-
-
-# 저를 소개합니다. 👋
-
-
-1. 안녕하세요 저는 나사렛대학교 재학중인 4학년 이민용입니다.
-2. 저는 현재 25년 로봇SW전문가양성과정을 배우고있습니다.
-
+<h3 align="center">안녕하세요 저는 나사렛대학교 재학중인 4학년 이민용입니다.</h3>
+<h3 align="center">저는 현재 25년 로봇SW전문가양성과정을 배우고있습니다.</h3>
 
 # 수업내용
 
@@ -66,18 +53,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlalsdyd01&label=Profile%20views&color=0e75b6&style=flat" alt="dlalsdyd01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlalsdyd01" alt="dlalsdyd01" /></a> </p>
-
 - 🤝 I’m looking for help with **2025 로봇 응용 SW전문가 양성 교육**
-
-- 💬 Ask me about **https://github.com/dlalsdyd01/Profile**
-
-- 📫 How to reach me **https://github.com/dlalsdyd01**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
