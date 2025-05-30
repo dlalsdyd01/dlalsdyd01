@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm MIN YONG</h1>
+<h1>Hi 👋, I'm MIN YONG LEE</h1>
 <h3>안녕하세요 저는 나사렛대학교 재학중인 4학년 이민용입니다.</h3>
 <h3>저는 현재 25년 로봇SW전문가양성과정을 배우고있습니다.</h3>
 
-# 수업내용
-
+## 수업내용
 
 ## 🌐 HTML / CSS
 - [profilecard](https://github.com/dlalsdyd01/HTML-CSS)  
@@ -44,16 +43,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
-
-
-
-
-
-
-
-
-
-- 🤝 I’m looking for help with **2025 로봇 응용 SW전문가 양성 교육**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
