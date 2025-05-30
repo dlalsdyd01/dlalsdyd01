@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm MIN YONG</h1>
+<h3 align="center">나사렛대학교 IT융합학부 재학중</h3>  
+
+
+  
+
+
+
+
+
 # 저를 소개합니다. 👋
 
 
@@ -54,8 +64,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm MIN YONG</h1>
-<h3 align="center">나사렛대학교 IT융합학부 재학중</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlalsdyd01&label=Profile%20views&color=0e75b6&style=flat" alt="dlalsdyd01" /> </p>
 
