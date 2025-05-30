@@ -40,6 +40,8 @@
 - [pyQT](https://github.com/dlalsdyd01/pyQT)  
   PyQt5를 활용한 데스크탑 애플리케이션 개발
 
+## JAVA 공부
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
