@@ -42,6 +42,10 @@
 
 ## JAVA 공부  
 https://github.com/dlalsdyd01/JAVA  
+
+## JAVA_SCRIPT 공부  
+https://github.com/dlalsdyd01/JAVA_SCRIPT
+
   
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
