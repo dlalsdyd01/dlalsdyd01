@@ -1,76 +1,104 @@
-<h1>Hi 👋, I'm MIN YONG LEE</h1>
-<h3>https://github.com/dlalsdyd01/Profile</h3>
+<div align="center">
 
-## SLIVE project
-- https://github.com/dlalsdyd01/Slive_prj  
-  실시간 수어통역기
+# 안녕하세요, 이민용입니다 👋
 
-## Lotto-analytics
-- https://github.com/dlalsdyd01/lotto-analytics  
-  로또 당첨번호 분석 및 AI 기반 예측 서비스
+### AI Developer · Full-Stack Engineer
 
-## Upbit
-- https://github.com/dlalsdyd01/Upbit_beta  
-  뉴스감정분석기반 업비트 코인추천/자동매매
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlalsdyd01&count_bg=%236C63FF&title_bg=%23555555&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## File-Converter
-- https://github.com/dlalsdyd01/File-Converter  
-  파일 변환기
+</div>
 
-## Quiz
-- https://github.com/dlalsdyd01/Quiz  
-  정보처리기사필기 100제 문제은행
-  
-## 🌐 HTML / CSS
-- [profilecard](https://github.com/dlalsdyd01/HTML-CSS)  
-  프로필카드 만들기
-- [Webpage](https://github.com/dlalsdyd01/Webpage)  
-  정적 웹사이트 제작 실습
-- [Profile](https://github.com/dlalsdyd01/Profile)  
-  자기소개용 프로필 페이지
-- [WebApp](https://github.com/dlalsdyd01/WebApp)  
-  반응형 웹 애플리케이션 개발
+---
 
-## 🤖 생성형 AI
-- [Generative-AI](https://github.com/dlalsdyd01/Generative-AI)  
-  생성형 인공지능 모델 실습
+## 🙋 About Me
 
-## 🧠 Teachable Machine
-- [Teachable-Machine](https://github.com/dlalsdyd01/Teachable-Machine)  
-  구글 Teachable Machine을 이용한 이미지 분류 모델
-
-## 💡 Copilot 활용
-- [Copilot](https://github.com/dlalsdyd01/Copilot)  
-  GitHub Copilot을 활용한 자동완성 코딩 실험
-
-## 🕵️ YOLOv5 실습
-- [yolov5](https://github.com/dlalsdyd01/yolov5)  
-  객체 탐지를 위한 YOLOv5 모델 실습
-- [webapp_yolo](https://github.com/dlalsdyd01/webapp_yolo)  
-  YOLOv5를 기반으로 한 웹 인터페이스 구현
-- [RobotControl](https://github.com/dlalsdyd01/RobotControl)  
-  YOLO와 연동된 로봇 제어 실습
-
-## 🖥️ QT 기반 앱 개발
-- [QT-Designer](https://github.com/dlalsdyd01/QT-Designer)  
-  QT Designer를 사용한 GUI 설계
-- [pyQT](https://github.com/dlalsdyd01/pyQT)  
-  PyQt5를 활용한 데스크탑 애플리케이션 개발
-
-## JAVA 공부  
-https://github.com/dlalsdyd01/JAVA  
-
-## JAVA_SCRIPT 공부  
-https://github.com/dlalsdyd01/JAVA_SCRIPT
-
-  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+🎓 나사렛대학교 IT인공지능학부 (2026 졸업)  
+🎓 우송IT교육센터 채용연계형 SW 전문인재 양성과정 수료  
+🎓 2025년바이오헬스 우송캠퍼스 교육과정 수료  
+💡 AI 개발자  
+🔍 구직 중 — 새로운 기회를 찾고 있습니다  
+📍 대한민국  
 
 
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 기획부터 배포까지 완성하는 개발자입니다
+- AI와 웹을 결합한 실용적인 서비스 개발을 좋아합니다
+- 실제 서비스를 운영하며 수익화까지 경험했습니다
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlalsdyd01&show_icons=true&locale=en&layout=compact" alt="dlalsdyd01" /></p>
+---
 
+## 🛠 Tech Stack
+
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=github&logoColor=black)
+
+**Deploy & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI / ML
+| 프로젝트 | 설명 | 언어 |
+|---------|------|------|
+| [SLIVE](https://github.com/dlalsdyd01/Slive_prj) | AI 한국 수어 실시간 인식·번역 시스템 | Python, TensorFlow.js, MediaPipe |
+| [Upbit AI 자동매매](https://github.com/dlalsdyd01/Upbit) | 뉴스 감성분석 기반 가상화폐 자동매매 | Python, FastAPI, PyTorch |
+| [RobotControl](https://github.com/dlalsdyd01/RobotControl) | YOLOv5 포트홀 감지 로봇 제어 시스템 | Python, YOLOv5, OpenCV |
+| [yolov5](https://github.com/dlalsdyd01/yolov5) | 객체 탐지를 위한 YOLOv5 모델 실습 | Python |
+| [webapp_yolo](https://github.com/dlalsdyd01/webapp_yolo) | YOLOv5 기반 웹 인터페이스 구현 | Python, HTML |
+| [Generative-AI](https://github.com/dlalsdyd01/Generative-AI) | 생성형 인공지능 모델 실습 | Python |
+| [Teachable-Machine](https://github.com/dlalsdyd01/Teachable-Machine) | 구글 Teachable Machine 이미지 분류 모델 | JavaScript |
+
+### 🌐 Web
+| 프로젝트 | 설명 | 언어 |
+|---------|------|------|
+| [로또 번호 분석](https://github.com/dlalsdyd01/lotto-analytics) | AI 기반 로또 번호 예측 · 애드센스 수익화 운영 중 | Python, Flask |
+| [Portfolio](https://github.com/dlalsdyd01/Profile) | 개발자 포트폴리오 사이트 | HTML, CSS, JS |
+| [WebAppWebCam](https://github.com/dlalsdyd01/WebAppWebCam) | 웹캠 기반 웹 애플리케이션 | HTML, JS |
+| [WebApp](https://github.com/dlalsdyd01/WebApp) | 웹 애플리케이션 | CSS, JS |
+| [MyProfile](https://github.com/dlalsdyd01/MyProfile) | 프로필 카드 웹페이지 | HTML, CSS |
+| [Webpage](https://github.com/dlalsdyd01/Webpage) | 웹페이지 구현 실습 | CSS |
+| [HTML-CSS](https://github.com/dlalsdyd01/HTML-CSS) | HTML/CSS 실습 | HTML |
+
+### 🖥️ Desktop / App
+| 프로젝트 | 설명 | 언어 |
+|---------|------|------|
+| [File-Converter](https://github.com/dlalsdyd01/File-Converter) | 파일 형식 변환기 | Python |
+| [pyQT](https://github.com/dlalsdyd01/pyQT) | PyQt5 데스크탑 애플리케이션 개발 | Python |
+| [QT-Designer](https://github.com/dlalsdyd01/QT-Designer) | QT Designer GUI 설계 실습 | Python |
+| [Memory_v1.0.0](https://github.com/dlalsdyd01/Memory_v1.0.0) | 메모리 카드 게임 | Python |
+| [Quiz](https://github.com/dlalsdyd01/Quiz) | 퀴즈 애플리케이션 | Python |
+| [spaceship](https://github.com/dlalsdyd01/spaceship) | 우주선 슈팅 게임 | C# |
+| [Arduino](https://github.com/dlalsdyd01/Arduino) | 아두이노 제어 프로젝트 | C++ |
+| [Copilot](https://github.com/dlalsdyd01/Copilot) | GitHub Copilot 자동완성 코딩 실험 | - |
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlalsdyd01&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlalsdyd01&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+</div>
