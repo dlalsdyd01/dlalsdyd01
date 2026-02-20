@@ -83,9 +83,9 @@
 | [File-Converter](https://github.com/dlalsdyd01/File-Converter) | 파일 형식 변환기 | Python |
 | [pyQT](https://github.com/dlalsdyd01/pyQT) | PyQt5 데스크탑 애플리케이션 개발 | Python |
 | [QT-Designer](https://github.com/dlalsdyd01/QT-Designer) | QT Designer GUI 설계 실습 | Python |
-| [Memory_v1.0.0](https://github.com/dlalsdyd01/Memory_v1.0.0) | 메모리 카드 게임 | Python |
-| [Quiz](https://github.com/dlalsdyd01/Quiz) | 퀴즈 애플리케이션 | Python |
-| [spaceship](https://github.com/dlalsdyd01/spaceship) | 우주선 슈팅 게임 | C# |
+| [Memory_v1.0.0](https://github.com/dlalsdyd01/Memory_v1.0.0) | 사람말투 분석AI | Python |
+| [Quiz](https://github.com/dlalsdyd01/Quiz) | 정보처리기사 문제은행100제 | Python |
+| [spaceship](https://github.com/dlalsdyd01/spaceship) | 유니티 슈팅 게임 | C# |
 | [Arduino](https://github.com/dlalsdyd01/Arduino) | 아두이노 제어 프로젝트 | C++ |
 | [Copilot](https://github.com/dlalsdyd01/Copilot) | GitHub Copilot 자동완성 코딩 실험 | - |
 
