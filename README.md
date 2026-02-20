@@ -3,7 +3,7 @@
 # 안녕하세요, 이민용입니다 👋
 
 ### AI Developer · Full-Stack Engineer
-### https://github.com/dlalsdyd01/profile
+### (https://dlalsdyd01.github.io/Profile/)
 
 
 
