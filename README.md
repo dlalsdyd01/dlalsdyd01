@@ -4,7 +4,7 @@
 
 ### AI Developer · Full-Stack Engineer
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlalsdyd01&count_bg=%236C63FF&title_bg=%23555555&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 </div>
 
@@ -91,13 +91,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlalsdyd01&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlalsdyd01&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
