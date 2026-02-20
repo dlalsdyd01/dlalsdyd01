@@ -60,7 +60,7 @@
 | 프로젝트 | 설명 | 언어 |
 |---------|------|------|
 | [SLIVE](https://github.com/dlalsdyd01/Slive_prj) | AI 한국 수어 실시간 인식·번역 시스템 | Python, TensorFlow.js, MediaPipe |
-| [Upbit AI 자동매매](https://github.com/dlalsdyd01/Upbit) | 뉴스 감성분석 기반 가상화폐 자동매매 | Python, FastAPI, PyTorch |
+| [Upbit AI 자동매매](https://github.com/dlalsdyd01/Upbit-beta) | 뉴스 감성분석 기반 가상화폐 자동매매 | Python, FastAPI, PyTorch |
 | [RobotControl](https://github.com/dlalsdyd01/RobotControl) | YOLOv5 포트홀 감지 로봇 제어 시스템 | Python, YOLOv5, OpenCV |
 | [webapp_yolo](https://github.com/dlalsdyd01/webapp_yolo) | YOLOv5 기반 웹 인터페이스 구현 | Python, HTML |
 | [Generative-AI](https://github.com/dlalsdyd01/Generative-AI) | 생성형 인공지능 모델 실습 | Python |
