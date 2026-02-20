@@ -1,9 +1,26 @@
 <h1>Hi 👋, I'm MIN YONG LEE</h1>
-<h3>안녕하세요 저는 나사렛대학교 재학중인 4학년 이민용입니다.</h3>
-<h3>저는 현재 25년 로봇SW전문가양성과정을 배우고있습니다.</h3>
+<h3>https://github.com/dlalsdyd01/Profile</h3>
 
-## 수업내용
+## SLIVE project
+- https://github.com/dlalsdyd01/Slive_prj  
+  실시간 수어통역기
 
+## Lotto-analytics
+- https://github.com/dlalsdyd01/lotto-analytics  
+  로또 당첨번호 분석 및 AI 기반 예측 서비스
+
+## Upbit
+- https://github.com/dlalsdyd01/Upbit_beta  
+  뉴스감정분석기반 업비트 코인추천/자동매매
+
+## File-Converter
+- https://github.com/dlalsdyd01/File-Converter  
+  파일 변환기
+
+## Quiz
+- https://github.com/dlalsdyd01/Quiz  
+  정보처리기사필기 100제 문제은행
+  
 ## 🌐 HTML / CSS
 - [profilecard](https://github.com/dlalsdyd01/HTML-CSS)  
   프로필카드 만들기
