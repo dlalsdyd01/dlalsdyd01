@@ -90,6 +90,12 @@
 | [Arduino](https://github.com/dlalsdyd01/Arduino) | 아두이노 제어 프로젝트 | C++ |
 | [Copilot](https://github.com/dlalsdyd01/Copilot) | GitHub Copilot 자동완성 코딩 실험 | - |
 
+### 📚 Study
+| 프로젝트 | 설명 | 언어 |
+|---------|------|------|
+| [JAVASCRIPT_Study](https://github.com/dlalsdyd01/JAVASCRIPT_Study) | JavaScript 학습 | JavaScript |
+| [JAVA_Study](https://github.com/dlalsdyd01/JAVA_Study) | Java 학습 | Java |
+
 ---
 
 
