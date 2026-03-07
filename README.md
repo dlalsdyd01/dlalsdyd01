@@ -13,16 +13,16 @@
 
 ## 🙋 About Me
 
-🎓 나사렛대학교 IT인공지능학부 (2026 졸업)  
-🎓 우송IT교육센터 채용연계형 SW 전문인재 양성과정 수료  
-🎓 2025년바이오헬스 우송캠퍼스 교육과정 수료  
-💡 AI 개발자  
-🔍 구직 중 — 새로운 기회를 찾고 있습니다  
-📍 대한민국  
+🎓 나사렛대학교 IT인공지능학부 (2026 졸업)
+🎓 우송IT교육센터 채용연계형 SW 전문인재 양성과정 수료
+🎓 2025년바이오헬스 우송캠퍼스 교육과정 수료
+💡 AI 개발자
+🔍 구직 중 — 새로운 기회를 찾고 있습니다
+📍 대한민국
 
 
 
-- 기획부터 배포까지 완성하는 개발자입니다 
+- 기획부터 배포까지 완성하는 개발자입니다
 - AI와 웹을 결합한 실용적인 서비스 개발을 좋아합니다
 - 실제 서비스를 운영하며 수익화까지 경험했습니다
 
@@ -30,12 +30,12 @@
 
 ## 🛠 Tech Stack
 
-**Frontend**  
+**Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend**  
+**Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -49,7 +49,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Deploy & Tools**  
+**Deploy & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
