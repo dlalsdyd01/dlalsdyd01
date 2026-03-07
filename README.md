@@ -64,6 +64,7 @@
 | [RobotControl](https://github.com/dlalsdyd01/RobotControl) | YOLOv5 포트홀 감지 로봇 제어 시스템 | Python, YOLOv5, OpenCV |
 | [webapp_yolo](https://github.com/dlalsdyd01/webapp_yolo) | YOLOv5 기반 웹 인터페이스 구현 | Python, HTML |
 | [Generative-AI](https://github.com/dlalsdyd01/Generative-AI) | 생성형 인공지능 모델 실습 | Python |
+| [나의 AI 캐릭터 비서](https://github.com/dlalsdyd01/MyAIAssistant) | Live2D + Ollama 로컬 LLM 데스크톱 AI 비서 | Electron, JavaScript, Live2D |
 | [Teachable-Machine](https://github.com/dlalsdyd01/Teachable-Machine) | 구글 Teachable Machine 이미지 분류 모델 | JavaScript |
 
 ### 🌐 Web
