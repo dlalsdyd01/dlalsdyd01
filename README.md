@@ -97,6 +97,7 @@
 |---------|------|------|
 | [JAVASCRIPT_Study](https://github.com/dlalsdyd01/JAVASCRIPT_Study) | JavaScript 학습 | JavaScript |
 | [JAVA_Study](https://github.com/dlalsdyd01/JAVA_Study) | Java 학습 | Java |
+| [정보처리기사 실기](https://github.com/dlalsdyd01/Engineer-Information-Processing) | 정보처리기사 실기 핵심 정리 노트 | - |
 
 ---
 
